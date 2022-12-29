@@ -1,2 +1,6 @@
 # Dcard-comments-crawler
-我...還沒空弄圖，Dcard在過去一年內可能更新過，害我爬蟲跑不動了，再找時間修QQ
+- `python crawler.py`後，輸入要爬取文章的url (ex. https://www.dcard.tw/f/food/p/236517592)
+- 執行畫面
+<img src="./crawler.png" style="width:600px;"/>
+<!-- ![](./crawler.png) -->
+

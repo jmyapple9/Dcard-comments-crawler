@@ -7,10 +7,10 @@ import contextlib
 import time
 import random
 def variables_setup():
-    # url=input('url:')
     global url,U,comment,schoolname,gender,user_agents,proxy_list
-    # url="https://www.dcard.tw/f/relationship/p/236517594"
-    url="https://www.dcard.tw/f/sex/p/235283382"
+    url=input('url:')
+    # url="https://www.dcard.tw/f/food/p/236517592"
+    
     U=url[-9:]
     comment=[]
     schoolname=[]
